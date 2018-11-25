@@ -1,4 +1,4 @@
-# gamecontroller
+# Peliohjain Arduinolla
 Tässä on koodi suunnittelemalleni peliohjaimelle. Löydät projektin kotisivuiltani:
 https://teukka.webnode.com/l/langaton-ohjain-atmega-lla-ja-nrf24l01-radiomoduulilla/
 
